@@ -1,4 +1,3 @@
-CHAT CLI CON GO Y NATS
 Esta aplicación consiste en un servidor NATS que permite la comunicación entre diferentes usuarios al unirse a un canal de chat. Estos usuarios pueden enviar y recibir mensajes de otros usuarios en tiempo real. Para el desarrollo de la aplicación se ha utilizado GO. 
 
 COMPONENTES: 
